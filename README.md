@@ -20,14 +20,14 @@ This starter kit is composed of:
   <br/>
 - [File System](https://nodejs.org/api/fs.html)
   <br/>
-  
 
 ## Development
 
 From your terminal:
 
 ```sh
-npm run dev
+yarn
+yarn dev
 ```
 
 ## Authors
