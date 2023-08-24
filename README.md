@@ -1,8 +1,7 @@
-![Screenshot from 2023-03-27 16-34-32](https://user-images.githubusercontent.com/34966088/227995167-0b397419-c0b0-43f3-8640-2340034411d5.png)
 
 ## Introduction
 
-A Leaderboards (CM) - WakaTime - Programming and time tracking leaderboard
+World Portfolios
 <br/>
 
 ## Composition
